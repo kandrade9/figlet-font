@@ -1,2 +1,2 @@
 # figlet-font
-Using FIGlet module to render user text input 
+Using FIGlet module, render user input in given or random font.
